@@ -42,7 +42,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/ayush-girulkar-bb3161219" target="_blank">
+  <a href="[www.linkedin.com/in/ayush-girulkar-bb3161219](https://www.linkedin.com/in/ayush-girulkar-bb3161219/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
