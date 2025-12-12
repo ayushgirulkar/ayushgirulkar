@@ -48,7 +48,7 @@
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.youtube.com/@artistman8607" target="_blank">
+  <a href="https://www.youtube.com/@artistmanOG" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
   </a>
   <a href=" https://www.instagram.com/invites/contact/?igsh=1hlnzj7y2sa56&utm_content=mnt6wi6 " target="_blank">
